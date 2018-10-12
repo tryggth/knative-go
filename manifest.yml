@@ -1,6 +1,5 @@
 applications:
  - name: knative-go
-   command: knative-go
    env:
-     GOPACKAGENAME: github.com/tryggth/knative-go
+     GOPACKAGENAME: knative-go
 
