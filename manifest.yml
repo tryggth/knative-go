@@ -1,0 +1,8 @@
+---
+applications:
+ - name: knative-go
+   command: knative-go
+   env:
+     GOVERSION: go1.10
+     GOPACKAGENAME: github.com/tryggth/knative-go
+
